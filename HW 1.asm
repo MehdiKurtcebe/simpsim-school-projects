@@ -11,4 +11,4 @@ store R1,[$A1]
 xor	R2,R0,R1
 store R2,[$A2]
 
-halt
+halt ;I took 83/100 from this homework

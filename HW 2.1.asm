@@ -32,7 +32,7 @@ Multiply2:	addi		R6,R6,R5 ;multiplying
 		store		RC,[$61]
 		load		RF,[$61] ;printing second digit
 
-		halt		;I printed the hexadecimal value of factorial
+		halt		;I printed the hexadecimal value of factorial. I took 100/100 from this homework
 
 
 		

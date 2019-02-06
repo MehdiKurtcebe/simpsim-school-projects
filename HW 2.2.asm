@@ -14,7 +14,7 @@ Previous:	load	  R0,1Ah
 		jmpEQ	  R1=R0,Finish ;inverse printing
 		jmp	  Previous
 
-Finish:	halt
+Finish:		halt ;I took 100/100 from this homework
 
 Text:		db	10
 		db	"Deneme",10
